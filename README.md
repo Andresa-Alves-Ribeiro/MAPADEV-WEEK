@@ -6,6 +6,7 @@
  <a href="#features">Features</a> •
  <a href="#pré-requisitos">Pré Requisitos</a> •
  <a href="#rodando-o-mobile">Rodando a aplicação</a> •
+ <a href="#acesso-ao-site">Acesso ao site</a> •
  <a href="#tecnologias">Tecnologias</a> •
  <a href="https://www.linkedin.com/in/andresa-alves-ribeiro/" target="_blank">Autora</a> •
 </p>
@@ -16,7 +17,7 @@
 
 
 <h1 align="center">
-  
+  ![Captura de tela 2022-08-26 183715](https://user-images.githubusercontent.com/94997593/186997114-ef96ac85-11b7-440c-a6ba-92252e47a600.png)
 </h1>
 
 
@@ -43,6 +44,11 @@ $ git clone https://github.com/Andresa-Alves-Ribeiro/Projeto-Marvel.git
 #entre no index.html e aperte alt+l+o
 
 ```
+
+### 💻 Acesso ao site
+
+Você pode acessar o site através [desse link](https://projeto-marvel-eight.vercel.app/)
+
 
 ### Tecnologias
 
