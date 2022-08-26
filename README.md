@@ -16,9 +16,7 @@
 <br>
 
 
-<h1 align="center">
   ![Captura de tela 2022-08-26 183715](https://user-images.githubusercontent.com/94997593/186997114-ef96ac85-11b7-440c-a6ba-92252e47a600.png)
-</h1>
 
 
 ### Features
