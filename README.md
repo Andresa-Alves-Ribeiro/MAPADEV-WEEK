@@ -1,6 +1,3 @@
-# MAPADEV-WEEK
-Projetos feitos durante a Dev Week dos irmãos @devemdobro em maio/2022.
-
 <h1 align="center">Select characters</h1>
 
 <p align="center">Esse projeto é uma aplicação para escolher os personagnes que desejar com a opção de dois players</p>
@@ -10,7 +7,7 @@ Projetos feitos durante a Dev Week dos irmãos @devemdobro em maio/2022.
  <a href="#pré-requisitos">Pré Requisitos</a> •
  <a href="#rodando-o-mobile">Rodando a aplicação</a> •
  <a href="#tecnologias">Tecnologias</a> •
- <a href="https://www.linkedin.com/in/antonio-alves-56b6b11a9/" target="_blank">Autor</a> •
+ <a href="https://www.linkedin.com/in/andresa-alves-ribeiro/" target="_blank">Autora</a> •
 </p>
 
 ---
@@ -19,9 +16,7 @@ Projetos feitos durante a Dev Week dos irmãos @devemdobro em maio/2022.
 
 
 <h1 align="center">
-  <img alt="WeatherApp" title="WeatherApp" src="" height="350"  width="350" />
   
-
 </h1>
 
 
@@ -36,7 +31,6 @@ Projetos feitos durante a Dev Week dos irmãos @devemdobro em maio/2022.
 Antes de começar, é necessário ter instalado em sua máquina um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 
-
 ### Rodando
 
 ```bash
@@ -49,7 +43,6 @@ $ git clone https://github.com/Andresa-Alves-Ribeiro/Projeto-Marvel.git
 #entre no index.html e aperte alt+l+o
 
 ```
-
 
 ### Tecnologias
 
