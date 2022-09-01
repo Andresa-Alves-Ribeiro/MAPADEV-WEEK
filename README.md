@@ -19,18 +19,18 @@
   ![Captura de tela 2022-08-26 183715](https://user-images.githubusercontent.com/94997593/186997114-ef96ac85-11b7-440c-a6ba-92252e47a600.png)
 
 
-### Features
+## Features
 
 - [x] Flutação entre os personagens;
 - [x] Click para escolher o personagem 1;
 - [x] Click para escolher o personagem 2.
 
-### Pré-requisitos
+## Pré-requisitos
 
 Antes de começar, é necessário ter instalado em sua máquina um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 
-### Rodando
+## Rodando
 
 ```bash
 # Clone este repositório
@@ -43,12 +43,12 @@ $ git clone https://github.com/Andresa-Alves-Ribeiro/Projeto-Marvel.git
 
 ```
 
-### 💻 Acesso ao site
+## 💻 Acesso ao site
 
 Você pode acessar o site através [desse link](https://projeto-marvel-eight.vercel.app/)
 
 
-### Tecnologias
+## Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
